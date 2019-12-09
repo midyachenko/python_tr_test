@@ -1,0 +1,2 @@
+# python_tr_test
+Training_python_autotests
